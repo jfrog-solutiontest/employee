@@ -1,0 +1,5 @@
+version 
+1.0.0 - go.mod depends on Employerv1.0.0
+1.1.0 - go.mod depends on Socialv1.0.0 and Employerv1.1.0
+1.2.0 - go.mod same as 1.1.0 - set the stage for Employer to use Employeev1.3.0
+
