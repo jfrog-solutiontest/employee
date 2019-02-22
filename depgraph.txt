@@ -1,0 +1,11 @@
+github.com/jfrog-solutiontest/employee github.com/jfrog-solutiontest/employer@v1.2.0
+github.com/jfrog-solutiontest/employer@v1.2.0 github.com/jfrog-solutiontest/employee@v1.3.0
+github.com/jfrog-solutiontest/employee@v1.3.0 github.com/jfrog-solutiontest/social@v1.0.0
+github.com/jfrog-solutiontest/employee@v1.3.0 github.com/jfrog-solutiontest/employer@v1.1.0
+github.com/jfrog-solutiontest/social@v1.0.0 github.com/jfrog-solutiontest/employee@v1.1.0
+github.com/jfrog-solutiontest/social@v1.0.0 github.com/jfrog-solutiontest/employer@v1.1.0
+github.com/jfrog-solutiontest/employee@v1.1.0 github.com/jfrog-solutiontest/social@v1.0.0
+github.com/jfrog-solutiontest/employee@v1.1.0 github.com/jfrog-solutiontest/employer@v1.1.0
+github.com/jfrog-solutiontest/employer@v1.1.0 github.com/jfrog-solutiontest/employee@v1.0.0
+github.com/jfrog-solutiontest/employee@v1.0.0 github.com/jfrog-solutiontest/employer@v1.0.0
+github.com/jfrog-solutiontest/employer@v1.0.0 github.com/jfrog-solutiontest/employee@v0.0.0-20190213212632-a9304022cab2
